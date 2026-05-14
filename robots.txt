@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Stausi.github.io/docs-6iv8w5/sitemap.xml
